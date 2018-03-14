@@ -1,0 +1,22 @@
+{
+"career":{
+"data":"Resilient to work hard in a professional fashion; to meet the standard of organisational'need.Eager to solve problems systematically"
+},
+"education":[
+  {
+    "degree":"B.TECH(C.S.E)",
+    "college":"SVCET",
+    "data":["2015-19","80%"]
+  },
+  {
+    "degree":"high school",
+    "college":"Sacret heart",
+    "data":["2013-2015","81%"]
+  },
+  {
+    "degree":"secondary education",
+    "college":"St monica",
+    "data":["2012-15","80%"]
+  }
+]
+}
